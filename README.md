@@ -1,2 +1,1 @@
-A webpage
-Just for fun.
+A webpage. Just for fun.
